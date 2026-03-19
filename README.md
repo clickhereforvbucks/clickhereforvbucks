@@ -6,7 +6,8 @@ hello I am snoodle.doodle / female but I go by any pronouns doesn't matter / I p
 i think you've seen me around place to place but I mostly draw or on other socials so check me out on there
 
 
-<a href="https://snoodledoodle.atabook.org">
+
+or sign my questbook here --> <a href="https://snoodledoodle.atabook.org">
   <img src="https://atabook.org/images/button.gif"/>
 </a>
 
@@ -16,18 +17,3 @@ i think you've seen me around place to place but I mostly draw or on other socia
 <a href="https://www.tumblr.com/snoodledoodle1?source=share">
   <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ada3ae4a-4f17-4585-912d-6aa25b26d259/d2h6iaw-29305f54-b2f6-4535-b146-0357dd1af494.png/v1/fill/w_91,h_29,q_80,strp/tumblr_button_by_hemlinger_productins_d2h6iaw-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MjkiLCJwYXRoIjoiL2YvYWRhM2FlNGEtNGYxNy00NTg1LTkxMmQtNmFhMjViMjZkMjU5L2QyaDZpYXctMjkzMDVmNTQtYjJmNi00NTM1LWIxNDYtMDM1N2RkMWFmNDk0LnBuZyIsIndpZHRoIjoiPD05MSJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.PGviHLCvp9S959ocKF2-Rx_xlIxuOMb3KWVfFJpLJeQ"/>
 </a>
-
-<!--
-**clickhereforvbucks/clickhereforvbucks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
